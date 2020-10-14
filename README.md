@@ -12,6 +12,8 @@ In the MarbleSolitaire main function pass in:
  - "-hole { row # } { col # }" Default is a hole position located in the middle of the board
  
 To make a move, pass in the position of the marble to move and the position of the empty space to move to.
+
 A move would look like this: { fromRow # } { fromCol # } { toRow # } { toCol # }
+
 Enter 'q' to quit the game.
     
